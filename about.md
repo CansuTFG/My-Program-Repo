@@ -26,11 +26,11 @@ I studied Hotel Management and I'm passionate about analyzing business processes
 
 
 ### 🎯 Goals
-- My passion lies in business analysis—understanding how organizations work and helping them improve through data and strategy.
+- My passion lies in business analysis understanding how organizations work and helping them improve through data and strategy.
 - I'm actively building my skills through coursework, personal projects, and hands-on learning.
 
 ### 🌱 Interests
 - Design, storytelling and outdoor sports
   
 
-Thanks for visiting my site—more updates coming soon!
+Thanks for visiting my site more updates coming soon!
