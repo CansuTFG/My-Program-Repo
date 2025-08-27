@@ -6,17 +6,17 @@ permalink: /about/
 
 # About Me
 ---
-layout: default
+
 title: Welcome
 ---
 
 # 👋 About Me
 
 Hi, I'm Cansu Tezcan, based in London.
-I studied Hotel Management and I'm passionate about analyzing business processes and improving efficiency.
+I'm passionate about analyzing business processes and improving efficiency.
 
 ### 🎓 Education
-- Hotel Management
+ Management
 
 ### 💼 Industry
 - Pursuing a degree in business, with a focus on business analysis and process improvement.
@@ -30,7 +30,7 @@ I studied Hotel Management and I'm passionate about analyzing business processes
 - I'm actively building my skills through coursework, personal projects, and hands-on learning.
 
 ### 🌱 Interests
-- Design, storytelling and outdoor sports
+- Design and outdoor sports
   
 
 Thanks for visiting my site more updates coming soon!
