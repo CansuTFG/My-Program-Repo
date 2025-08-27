@@ -10,9 +10,3 @@ title: Welcome
 
 Hello world! This is my Jekyll homepage.
 
-<script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
-<script>
-  particlesJS.load('particles-js', '{{ "/assets/js/particles-config.json" | relative_url }}', function() {
-    console.log('Particles.js loaded');
-  });
-</script>
